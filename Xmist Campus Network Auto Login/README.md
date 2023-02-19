@@ -1,6 +1,6 @@
 # 校园网自动登录 Xmist
 
-![Apache 2](https://img.shields.io/badge/license-Apache%202-blue?style=flat-square&logo=Apache) ![Tampermonkey](https://img.shields.io/badge/Script%20Injector-Tampermonkey-green?style=flat-square&logo=Tampermonkey)
+![Apache 2](https://img.shields.io/badge/license-Apache%202-blue?style=flat-square&logo=Apache) ![Tampermonkey](https://img.shields.io/badge/Script%20Injector-Tampermonkey-green?style=flat-square&logo=Tampermonkey)  
 **[ [`安装此脚本`](https://tmy.aigio1064.top/Xmist%20Campus%20Network%20Auto%20Login/release.user.js) | [`在GitHub上查看`](https://github.com/Aigio1064/Tmy.aigio1064.top/blob/main/Xmist%20Campus%20Network%20Auto%20Login/release.user.js) ]**  
 
 ## 说明
