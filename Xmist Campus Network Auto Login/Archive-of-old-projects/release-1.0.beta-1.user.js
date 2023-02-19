@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         校园网自动登录 xmist
-// @namespace    https://software.aigio1064.top/xmistCampusNetworkAutomaticLoginPlug-in/
+// @namespace    https://tmy.aigio1064.top/Xmist%20Campus%20Network%20Auto%20Login/
 // @version      1.0.beta-1
 // @description  只需要完成一次登录操作，在你下次打开登录校园网页面时，将会自动为你登录，并且在自动完成登录操作后尝试关闭页面。如果想更换校园网账户，那么请先把此脚本禁用。
 // @author       Aigio1064
