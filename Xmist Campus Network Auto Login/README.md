@@ -3,9 +3,16 @@
 ![Apache 2](https://img.shields.io/badge/license-Apache%202-blue?style=flat-square&logo=Apache) ![Tampermonkey](https://img.shields.io/badge/Script%20Injector-Tampermonkey-green?style=flat-square&logo=Tampermonkey)
 **[ [`安装此脚本`](https://tmy.aigio1064.top/Xmist%20Campus%20Network%20Auto%20Login/release.user.js) | [`在GitHub上查看`](https://github.com/Aigio1064/Tmy.aigio1064.top/blob/main/Xmist%20Campus%20Network%20Auto%20Login/release.user.js) ]**  
 
-## 使用说明
+## 说明
 
-傻瓜式操作，简单无脑，正常登录一次并勾选保存密码应该就能正常运行
+专为 `厦门软件职业技术学院` 设计的校园网自动登录脚本。  
+用以替代失效的自动登录功能。  
+设计为只需要正常登录一次即可在以后自动完成操作。
+
+## 安全性
+
+所有数据均存储在浏览器，不收集任何信息。
+`Tips: 如果连你自己的电脑都信不过，那世界上应该就没有安全的电脑了。`
 
 ## 尝试适配兼容其它学校的校园网系统?
 
