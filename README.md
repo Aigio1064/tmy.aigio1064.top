@@ -1,4 +1,4 @@
-# Tmy.aigio1064.top
+# tmy.aigio1064.top
 
 ![Apache 2](https://img.shields.io/badge/license-Apache%202-blue?style=flat-square&logo=Apache) ![Tampermonkey](https://img.shields.io/badge/Script%20Injector-Tampermonkey-green?style=flat-square&logo=Tampermonkey)
 
